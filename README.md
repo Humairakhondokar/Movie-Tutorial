@@ -1,1 +1,1 @@
-Type `npm run dev` for run the server
+Type `npm run dev` to run the code.
